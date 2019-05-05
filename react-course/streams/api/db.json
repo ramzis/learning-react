@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "Stream",
+      "description": "NEw Stream",
+      "id": 1
+    },
+    {
+      "title": "Stream 554",
+      "description": "NEw Streamjhjhv",
+      "id": 2
+    },
+    {
+      "title": "I made this",
+      "description": "This was made by me",
+      "userId": "102472620782381947854",
+      "id": 3
+    },
+    {
+      "title": "I made this",
+      "description": "PATCH request change",
+      "userId": "102472620782381947854",
+      "id": 4
+    },
+    {
+      "title": "Abc",
+      "description": "123",
+      "userId": "102472620782381947854",
+      "id": 5
+    },
+    {
+      "title": "Me Streaming Component Reuse",
+      "description": "Watch me",
+      "id": 6
+    }
+  ]
+}
